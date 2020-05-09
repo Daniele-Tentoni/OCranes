@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427193798262",
+    "firebase_url": "https://cranes-counter.firebaseio.com",
+    "project_id": "cranes-counter",
+    "storage_bucket": "cranes-counter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427193798262:android:5aea6f6a39c7375bcfd957",
+        "android_client_info": {
+          "package_name": "it.danieletentoni.ocranes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427193798262-4v55jjq6asnknq3ov090dc6uhf1k67ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2iM7PUvkb2byOyj9sqbz-VxA83kWe-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427193798262-4v55jjq6asnknq3ov090dc6uhf1k67ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
